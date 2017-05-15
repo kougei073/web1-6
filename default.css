@@ -12,12 +12,17 @@ border: 1px solid lightcoral;
 
 .phot{float: left;}
 
+.btn{
+ -webkit-appearance: none;
+ -webkit-border-radius: 0;
+ border: none;
+}
+
+}
 .btn-submit{
-background-color:lightcoral;
-  -webkit-appearance: none;
+background-color:lightcoral; 
 }
 
 .btn-reset{
 background-color:silver;
-   -webkit-appearance: none;
 }
