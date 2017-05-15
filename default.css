@@ -2,3 +2,11 @@
 font-weight: bold;}
 
 .phot{float: left;}
+
+.btn-submit{
+background-color:#0000ff;
+}
+
+.btn-reset{
+background-color:#8b0000;
+}
