@@ -5,8 +5,10 @@ font-weight: bold;}
 
 .btn-submit{
 background-color:#0000ff;
+  -webkit-appearance: none;
 }
 
 .btn-reset{
 background-color:#8b0000;
+   -webkit-appearance: none;
 }
